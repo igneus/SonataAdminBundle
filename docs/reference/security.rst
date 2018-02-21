@@ -218,7 +218,7 @@ Note that you do not have to re-specify the prefix.
 Sonata checks those permissions for the action it handles internally.
 Of course you will have to recheck them in your own code.
 
-Yon can also create your own permissions, for example ``EMAIL``
+You can also create your own permissions, for example ``EMAIL``
 (which will turn into role ``ROLE_APP_ADMIN_FOO_EMAIL``).
 
 Going further
